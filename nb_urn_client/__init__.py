@@ -1,1 +1,1 @@
-from nb_urn_client import NbUrnClient
+from .nb_urn_client import NbUrnClient
